@@ -215,10 +215,4 @@ AWS HTTP Gateway supports three different ways for authenticating the requests. 
 
 **Tags**: AWS API Gateway, CloudFront, Security
 
-**Author**: Vimal Paliwal
-
-Vim brings over eight years of practical experience in designing and deploying cloud-native solutions using AWS and a broad spectrum of DevOps tools. Throughout his career, he has collaborated with businesses of all sizes to build secure, scalable, and efficient infrastructure on the cloud, often leading strategic cloud transformation initiatives. He is a part of the AWS Community Builders program, where he actively contributes to knowledge-sharing efforts across the cloud ecosystem by writing on real-world implementations and best practices. In addition, Vim has spent several years as an AWS Authorized Instructor, during which he trained over 1,000 professionals.
-
----
-
 *Source: [SkildOps Blog](https://skildops.com/blog/optimise-and-secure-aws-http-api-gateway-by-locking-down-direct-access)*
