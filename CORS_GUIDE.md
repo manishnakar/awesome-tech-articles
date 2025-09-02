@@ -1,8 +1,8 @@
-# CORS Configuration Guide for Sentinel Express Server
+# CORS Configuration Guide for Express Server
 
 ## 📋 Overview
 
-This document outlines the complete CORS (Cross-Origin Resource Sharing) implementation for the Sentinel Express.js server, including configuration, security measures, and comprehensive testing procedures.
+This document outlines the complete CORS (Cross-Origin Resource Sharing) implementation for the Express.js server, including configuration, security measures, and comprehensive testing procedures.
 
 ## 🏗️ Implementation Steps
 
